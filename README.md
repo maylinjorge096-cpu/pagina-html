@@ -1,27 +1,31 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="es">
 <head>
     </body>
     <meta charset="UTF-8">
-    <title>Disco duro</title>
+    <title>MIS METAS</title>
 </head>
 <h1>
- <h3 style="color:#1debe0f1">¿que es un disco duro?</h3>
+<h3 style="color:rgb(123, 12, 250)"</h3>Mis metas</h3>
  </h3>
- <h3>un disco duro es un dispositivo de almacenamiento de datos que utiliza discos magnéticos para guardar información de
-     manera permanente. Es uno de los componentes principales de una computadora y se utiliza para almacenar el sistema operativo, 
-     programas y archivos del usuario.</h3>
- <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpazPxFWy9idMVfIacCqQKA37qwGnsK8U1tDtpV-8P4A&s=10" alt="ejemplo" width="200">
+ <h3>Mi nombre es maylin jeorleny jorge xicay,tengo 16 años y estoy en mi primer año de carrera estoy la carrera de bachillerato en computacion
+  estudio en el establecimiento que se llama INED SAN MIGUEL  .</h3>
+ <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGKth51IdSKgKsWUNzkG4_HeFgjY4-FHVvM8W2VpT-A&s=10" alt="ejemplo" width="200">
 <BR>
-  <h2><B><h2 style="color:rgba(24, 233, 222, 0.993)"</h2> ¿cuales son los tipos de discos duros?</B></h2>
-<h3>los discos duros se clasifican en dos tipos principales: los discos duros mecánicos (HDD) y los discos duros sólidos (SSD). Los HDD utilizan platos magnéticos para almacenar datos, mientras que los SSD usan memoria electrónica.</h3>
+    <h2><B><h2 style="color:rgba(108, 23, 245, 0.993)"</h2>Mis metas a futuro</B></h2>
+<h3>mis metas son poder pasar el año para finalizar la carrera de bachillerato en computacion para luego poder iniciar una carrera en la universidad
+    y de una ves buscaria un empleo para poder ejercer la carrera de computacion tambien ayudar a mis padres y poder cuidarlos como ellos lo hicieron por mi
+    .</h3>
 <h3>
     <BR>
-    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTejk1-rZkx2sEBhEw8XJmehA8zVm-hZw3gybQsYEimkw&s=10" alt="ejemplo" width="200">
+    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGVXIWBOYAwRhwRr-b8ctt3GQRokI96LDncQsWp2UHA&s=10" alt="ejemplo" width="200">
 <BR >
-    <B><h2 style="color:rgb(12, 250, 230)"</h2> aca esta un juego que le ayudara a mejorar sus conocimientos sobre los discos duros</B></h2>   
-    <h2>
- <img src= "https://es.educaplay.com/usuario/14615162-maylin/" alt="ejemplo" width="200">
+</h3> espero del ined san miguel poder graduarme y que cuando yo salga sigan inscribiendose muchos mas alumnos  </B></h3>   
+    <h3>
+ <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IEqhAhCvDUPoxdZ5Zpxk3VV43i-YrRPKCRAskX9scQ&s=10" alt="ejemplo" width="200">
+    <BR >
+        <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBWrmikQFb4gTrKRpWvyWInbCTPU0cuJ70SUbj8FBXQ&s" alt="ejemplo" width="200">
     <BR >
 </body>
 </html>
+
